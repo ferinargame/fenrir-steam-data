@@ -1,0 +1,1467 @@
+{
+  "library": [
+    {
+      "name": "Journey",
+      "icon": "🧣",
+      "time": "5.5 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 14,
+      "appid": 638230,
+      "playtime": 24
+    },
+    {
+      "name": "Little Nightmares Enhanced Edition",
+      "icon": "🔦",
+      "time": "7 ч.",
+      "size": "10 GB",
+      "achievements": "36.4%",
+      "earned": 8,
+      "total": 22,
+      "appid": 424840,
+      "playtime": 570
+    },
+    {
+      "name": "Transistor",
+      "icon": "🗡️",
+      "time": "15 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 33,
+      "appid": 237930,
+      "playtime": 0
+    },
+    {
+      "name": "Human Fall Flat",
+      "icon": "🤸",
+      "time": "15 ч.",
+      "size": "1 GB",
+      "achievements": "4.6%",
+      "earned": 7,
+      "total": 151,
+      "appid": 477160,
+      "playtime": 94
+    },
+    {
+      "name": "Ori and the Will of the Wisps",
+      "icon": "🦉",
+      "time": "15 ч.",
+      "size": "10 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 37,
+      "appid": 1057090,
+      "playtime": 1
+    },
+    {
+      "name": "The Life and Suffering of Sir Brante",
+      "icon": "📜",
+      "time": "15 ч.",
+      "size": "3 GB",
+      "achievements": "4.5%",
+      "earned": 4,
+      "total": 89,
+      "appid": 1272160,
+      "playtime": 54
+    },
+    {
+      "name": "Moonlighter",
+      "icon": "🏪",
+      "time": "18 ч.",
+      "size": "4 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 67,
+      "appid": 606150,
+      "playtime": 12
+    },
+    {
+      "name": "Half-Life 2",
+      "icon": "🎮",
+      "time": "20 ч.",
+      "size": "7 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 69,
+      "appid": 220,
+      "playtime": 0
+    },
+    {
+      "name": "Hotline Miami 2: Wrong Number",
+      "icon": "💊",
+      "time": "20 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 29,
+      "appid": 274170,
+      "playtime": 96
+    },
+    {
+      "name": "Undertale",
+      "icon": "❤️",
+      "time": "20 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 391540,
+      "playtime": 10
+    },
+    {
+      "name": "Psychonauts 2",
+      "icon": "🧠",
+      "time": "20 ч.",
+      "size": "30 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 57,
+      "appid": 607080,
+      "playtime": 0
+    },
+    {
+      "name": "Tzar: The Burden of the Crown",
+      "icon": "🏰",
+      "time": "20 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 825730,
+      "playtime": 4
+    },
+    {
+      "name": "Titanfall® 2",
+      "icon": "🤖",
+      "time": "20 ч.",
+      "size": "45 GB",
+      "achievements": "16.0%",
+      "earned": 8,
+      "total": 50,
+      "appid": 1237970,
+      "playtime": 195
+    },
+    {
+      "name": "Orcs Must Die! 3",
+      "icon": "👹",
+      "time": "20 ч.",
+      "size": "12 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 38,
+      "appid": 1522820,
+      "playtime": 0
+    },
+    {
+      "name": "Ara Fell: Enhanced Edition",
+      "icon": "🗡️",
+      "time": "24 ч.",
+      "size": "2 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 18,
+      "appid": 440540,
+      "playtime": 8
+    },
+    {
+      "name": "Orcs Must Die! 2",
+      "icon": "👹",
+      "time": "25 ч.",
+      "size": "5 GB",
+      "achievements": "37.0%",
+      "earned": 10,
+      "total": 27,
+      "appid": 201790,
+      "playtime": 806
+    },
+    {
+      "name": "Age of Mythology: Extended Edition",
+      "icon": "🏛️",
+      "time": "25 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 70,
+      "appid": 266840,
+      "playtime": 60
+    },
+    {
+      "name": "BioShock Remastered",
+      "icon": "💉",
+      "time": "25 ч.",
+      "size": "25 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 65,
+      "appid": 409710,
+      "playtime": 0
+    },
+    {
+      "name": "BioShock 2 Remastered",
+      "icon": "🌊",
+      "time": "25 ч.",
+      "size": "25 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 53,
+      "appid": 409720,
+      "playtime": 0
+    },
+    {
+      "name": "Griftlands",
+      "icon": "🃏",
+      "time": "25 ч.",
+      "size": "4 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 13,
+      "appid": 601840,
+      "playtime": 8
+    },
+    {
+      "name": "Mark of the Ninja: Remastered",
+      "icon": "👺",
+      "time": "25 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 38,
+      "appid": 860950,
+      "playtime": 0
+    },
+    {
+      "name": "GRIME",
+      "icon": "🖤",
+      "time": "25 ч.",
+      "size": "10 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 47,
+      "appid": 1123050,
+      "playtime": 8
+    },
+    {
+      "name": "Knights and Merchants",
+      "icon": "🏰",
+      "time": "30 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 253900,
+      "playtime": 1
+    },
+    {
+      "name": "Cuphead",
+      "icon": "☕",
+      "time": "30 ч.",
+      "size": "4 GB",
+      "achievements": "2.4%",
+      "earned": 1,
+      "total": 42,
+      "appid": 268910,
+      "playtime": 19
+    },
+    {
+      "name": "For The King",
+      "icon": "📜",
+      "time": "30 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 78,
+      "appid": 527230,
+      "playtime": 0
+    },
+    {
+      "name": "Disco Elysium",
+      "icon": "🕵️",
+      "time": "30 ч.",
+      "size": "20 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 45,
+      "appid": 632470,
+      "playtime": 0
+    },
+    {
+      "name": "Songs of Conquest",
+      "icon": "🏰",
+      "time": "30 ч.",
+      "size": "5 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 69,
+      "appid": 867210,
+      "playtime": 47
+    },
+    {
+      "name": "Age of Empires: Definitive Edition",
+      "icon": "⚔️",
+      "time": "30 ч.",
+      "size": "20 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 44,
+      "appid": 1017900,
+      "playtime": 0
+    },
+    {
+      "name": "STAR WARS Jedi: Fallen Order™ ",
+      "icon": "⚔️",
+      "time": "30 ч.",
+      "size": "55 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 39,
+      "appid": 1172380,
+      "playtime": 0
+    },
+    {
+      "name": "Across the Obelisk",
+      "icon": "🃏",
+      "time": "30 ч.",
+      "size": "2 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 148,
+      "appid": 1385380,
+      "playtime": 4
+    },
+    {
+      "name": "Shadow Tactics: Blades of the Shogun - Aiko's Choice",
+      "icon": "🏯",
+      "time": "30 ч.",
+      "size": "5 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 44,
+      "appid": 1579380,
+      "playtime": 0
+    },
+    {
+      "name": "BioShock Infinite",
+      "icon": "☁️",
+      "time": "35 ч.",
+      "size": "20 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 80,
+      "appid": 8870,
+      "playtime": 0
+    },
+    {
+      "name": "Into the Breach",
+      "icon": "♟️",
+      "time": "35 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 70,
+      "appid": 590380,
+      "playtime": 0
+    },
+    {
+      "name": "Iratus: Lord of the Dead",
+      "icon": "💀",
+      "time": "35 ч.",
+      "size": "3 GB",
+      "achievements": "1.3%",
+      "earned": 1,
+      "total": 75,
+      "appid": 807120,
+      "playtime": 14
+    },
+    {
+      "name": "Spiritfarer®: Farewell Edition",
+      "icon": "⛵",
+      "time": "35 ч.",
+      "size": "7 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 39,
+      "appid": 972660,
+      "playtime": 76
+    },
+    {
+      "name": "SpellForce 3: Fallen God",
+      "icon": "⚔️",
+      "time": "35 ч.",
+      "size": "6 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 35,
+      "appid": 1154040,
+      "playtime": 3
+    },
+    {
+      "name": "Desperados III",
+      "icon": "🤠",
+      "time": "40 ч.",
+      "size": "15 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 36,
+      "appid": 610370,
+      "playtime": 0
+    },
+    {
+      "name": "Inscryption",
+      "icon": "🃏",
+      "time": "40 ч.",
+      "size": "3 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 40,
+      "appid": 1092790,
+      "playtime": 0
+    },
+    {
+      "name": "Loop Hero",
+      "icon": "🔄",
+      "time": "40 ч.",
+      "size": "2 GB",
+      "achievements": "6.0%",
+      "earned": 3,
+      "total": 50,
+      "appid": 1282730,
+      "playtime": 92
+    },
+    {
+      "name": "Crypt of the NecroDancer",
+      "icon": "🎵",
+      "time": "45 ч.",
+      "size": "2 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 61,
+      "appid": 247080,
+      "playtime": 9
+    },
+    {
+      "name": "Middle-earth™: Shadow of War™",
+      "icon": "🗡️",
+      "time": "45 ч.",
+      "size": "70 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 72,
+      "appid": 356190,
+      "playtime": 0
+    },
+    {
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "icon": "🥷",
+      "time": "45 ч.",
+      "size": "7 GB",
+      "achievements": "2.3%",
+      "earned": 1,
+      "total": 44,
+      "appid": 418240,
+      "playtime": 88
+    },
+    {
+      "name": "Raft",
+      "icon": "🌊",
+      "time": "45 ч.",
+      "size": "5 GB",
+      "achievements": "12.5%",
+      "earned": 13,
+      "total": 104,
+      "appid": 648800,
+      "playtime": 780
+    },
+    {
+      "name": "DARK SOULS™: Prepare To Die Edition",
+      "icon": "💀",
+      "time": "50 ч.",
+      "size": "8 GB",
+      "achievements": "2.4%",
+      "earned": 1,
+      "total": 41,
+      "appid": 211420,
+      "playtime": 10267
+    },
+    {
+      "name": "Titan Quest Anniversary Edition",
+      "icon": "🏛️",
+      "time": "50 ч.",
+      "size": "5 GB",
+      "achievements": "5.2%",
+      "earned": 6,
+      "total": 115,
+      "appid": 475150,
+      "playtime": 773
+    },
+    {
+      "name": "Tribes of Midgard",
+      "icon": "🛡️",
+      "time": "50 ч.",
+      "size": "8 GB",
+      "achievements": "19.2%",
+      "earned": 5,
+      "total": 26,
+      "appid": 858820,
+      "playtime": 60
+    },
+    {
+      "name": "XCOM: Enemy Unknown",
+      "icon": "👽",
+      "time": "55 ч.",
+      "size": "20 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 85,
+      "appid": 200510,
+      "playtime": 0
+    },
+    {
+      "name": "Age of Wonders III",
+      "icon": "🏰",
+      "time": "60 ч.",
+      "size": "10 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 74,
+      "appid": 226840,
+      "playtime": 0
+    },
+    {
+      "name": "Age of Empires II: Definitive Edition",
+      "icon": "⚔️",
+      "time": "60 ч.",
+      "size": "30 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 357,
+      "appid": 813780,
+      "playtime": 0
+    },
+    {
+      "name": "Core Keeper",
+      "icon": "⛏️",
+      "time": "60 ч.",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 55,
+      "appid": 1621690,
+      "playtime": 15
+    },
+    {
+      "name": "Hollow Knight",
+      "icon": "🦇",
+      "time": "65 ч.",
+      "size": "9 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 63,
+      "appid": 367520,
+      "playtime": 28
+    },
+    {
+      "name": "FTL: Faster Than Light",
+      "icon": "🚀",
+      "time": "70 ч.",
+      "size": "0.5 GB",
+      "achievements": "2.0%",
+      "earned": 1,
+      "total": 51,
+      "appid": 212680,
+      "playtime": 437
+    },
+    {
+      "name": "Pillars of Eternity",
+      "icon": "📜",
+      "time": "70 ч.",
+      "size": "14 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 48,
+      "appid": 291650,
+      "playtime": 0
+    },
+    {
+      "name": "DARK SOULS™ III",
+      "icon": "💀",
+      "time": "70 ч.",
+      "size": "25 GB",
+      "achievements": "7.0%",
+      "earned": 3,
+      "total": 43,
+      "appid": 374320,
+      "playtime": 492
+    },
+    {
+      "name": "Might & Magic X - Legacy ",
+      "icon": "⚔️",
+      "time": "73.5 ч.",
+      "size": "5 GB",
+      "achievements": "26.7%",
+      "earned": 8,
+      "total": 30,
+      "appid": 238750,
+      "playtime": 3064
+    },
+    {
+      "name": "Grim Dawn",
+      "icon": "⚔️",
+      "time": "75 ч.",
+      "size": "12 GB",
+      "achievements": "17.3%",
+      "earned": 32,
+      "total": 185,
+      "appid": 219990,
+      "playtime": 5445
+    },
+    {
+      "name": "DARK SOULS™ II: Scholar of the First Sin",
+      "icon": "💀",
+      "time": "75 ч.",
+      "size": "23 GB",
+      "achievements": "7.9%",
+      "earned": 3,
+      "total": 38,
+      "appid": 335300,
+      "playtime": 329
+    },
+    {
+      "name": "Pillars of Eternity II: Deadfire",
+      "icon": "📜",
+      "time": "75 ч.",
+      "size": "40 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 55,
+      "appid": 560130,
+      "playtime": 0
+    },
+    {
+      "name": "XCOM 2",
+      "icon": "👽",
+      "time": "80 ч.",
+      "size": "45 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 88,
+      "appid": 268500,
+      "playtime": 0
+    },
+    {
+      "name": "Terraria",
+      "icon": "⛏️",
+      "time": "100 ч.+",
+      "size": "0.5 GB",
+      "achievements": "49.6%",
+      "earned": 68,
+      "total": 137,
+      "appid": 105600,
+      "playtime": 6234
+    },
+    {
+      "name": "Darkest Dungeon®",
+      "icon": "💀",
+      "time": "100 ч.+",
+      "size": "4 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 120,
+      "appid": 262060,
+      "playtime": 4
+    },
+    {
+      "name": "Divinity: Original Sin Enhanced Edition",
+      "icon": "🐉",
+      "time": "100 ч.",
+      "size": "15 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 54,
+      "appid": 373420,
+      "playtime": 15
+    },
+    {
+      "name": "Nioh: Complete Edition",
+      "icon": "⚔️",
+      "time": "100 ч.+",
+      "size": "80 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 79,
+      "appid": 485510,
+      "playtime": 0
+    },
+    {
+      "name": "Satisfactory",
+      "icon": "🏭",
+      "time": "100 ч.+",
+      "size": "15 GB",
+      "achievements": "29.5%",
+      "earned": 13,
+      "total": 44,
+      "appid": 526870,
+      "playtime": 4383
+    },
+    {
+      "name": "Slay the Spire",
+      "icon": "🃏",
+      "time": "100 ч.+",
+      "size": "1 GB",
+      "achievements": "10.9%",
+      "earned": 5,
+      "total": 46,
+      "appid": 646570,
+      "playtime": 255
+    },
+    {
+      "name": "Disgaea 5 Complete",
+      "icon": "😈",
+      "time": "100 ч.+",
+      "size": "20 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 51,
+      "appid": 803600,
+      "playtime": 39
+    },
+    {
+      "name": "Valheim",
+      "icon": "🛡️",
+      "time": "100 ч.+",
+      "size": "1 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 892970,
+      "playtime": 1460
+    },
+    {
+      "name": "Halo: The Master Chief Collection",
+      "icon": "🔫",
+      "time": "100 ч.+",
+      "size": "60 GB",
+      "achievements": "0.3%",
+      "earned": 2,
+      "total": 700,
+      "appid": 976730,
+      "playtime": 25
+    },
+    {
+      "name": "Hades",
+      "icon": "🔥",
+      "time": "100 ч.+",
+      "size": "15 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 49,
+      "appid": 1145360,
+      "playtime": 7
+    },
+    {
+      "name": "ELDEN RING",
+      "icon": "⚔️",
+      "time": "140 ч.+",
+      "size": "60 GB",
+      "achievements": "4.8%",
+      "earned": 2,
+      "total": 42,
+      "appid": 1245620,
+      "playtime": 737
+    },
+    {
+      "name": "Kenshi",
+      "icon": "⚔️",
+      "time": "150 ч.+",
+      "size": "10 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 233860,
+      "playtime": 0
+    },
+    {
+      "name": "ARK: Survival Evolved",
+      "icon": "🦖",
+      "time": "150 ч.+",
+      "size": "100 GB",
+      "achievements": "9.4%",
+      "earned": 3,
+      "total": 32,
+      "appid": 346110,
+      "playtime": 10659
+    },
+    {
+      "name": "Divinity: Original Sin 2",
+      "icon": "🐉",
+      "time": "150 ч.+",
+      "size": "60 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 97,
+      "appid": 435150,
+      "playtime": 0
+    },
+    {
+      "name": "Oxygen Not Included",
+      "icon": "🫧",
+      "time": "150 ч.+",
+      "size": "2 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 50,
+      "appid": 457140,
+      "playtime": 0
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "icon": "🐺",
+      "time": "180 ч.+",
+      "size": "50 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 78,
+      "appid": 292030,
+      "playtime": 28
+    },
+    {
+      "name": "Elite Dangerous",
+      "icon": "🚀",
+      "time": "200 ч.+",
+      "size": "25 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 0,
+      "appid": 359320,
+      "playtime": 391
+    },
+    {
+      "name": "Sea of Thieves",
+      "icon": "🏴‍☠️",
+      "time": "200 ч.+",
+      "size": "50 GB",
+      "achievements": "0.0%",
+      "earned": 0,
+      "total": 290,
+      "appid": 1172620,
+      "playtime": 0
+    }
+  ],
+  "finished": [
+    {
+      "name": "Deponia",
+      "time": "6 ч. 37 мин.",
+      "size": "3 GB",
+      "earned": 19,
+      "total": 19,
+      "appid": 214340,
+      "playtime": 397
+    },
+    {
+      "name": "Brothers - A Tale of Two Sons",
+      "time": "8 ч. 26 мин.",
+      "size": "2 GB",
+      "earned": 12,
+      "total": 12,
+      "appid": 225080,
+      "playtime": 506
+    },
+    {
+      "name": "Planet of Lana",
+      "time": "9 ч. 19 мин.",
+      "size": "4 GB",
+      "earned": 25,
+      "total": 25,
+      "appid": 1608230,
+      "playtime": 559
+    },
+    {
+      "name": "The Last Campfire",
+      "time": "9 ч. 38 мин.",
+      "size": "4 GB",
+      "earned": 22,
+      "total": 22,
+      "appid": 990630,
+      "playtime": 578
+    },
+    {
+      "name": "Hellblade: Senua's Sacrifice",
+      "time": "11 ч. 8 мин.",
+      "size": "8 GB",
+      "earned": 14,
+      "total": 14,
+      "appid": 414340,
+      "playtime": 668
+    },
+    {
+      "name": "Shady Part of Me",
+      "time": "11 ч. 38 мин.",
+      "size": "4 GB",
+      "earned": 16,
+      "total": 16,
+      "appid": 1116580,
+      "playtime": 698
+    },
+    {
+      "name": "GRIS",
+      "time": "11 ч. 47 мин.",
+      "size": "4 GB",
+      "earned": 17,
+      "total": 17,
+      "appid": 683320,
+      "playtime": 707
+    },
+    {
+      "name": "Shank",
+      "time": "13 ч. 2 мин.",
+      "size": "1 GB",
+      "earned": 12,
+      "total": 12,
+      "appid": 6120,
+      "playtime": 782
+    },
+    {
+      "name": "Deaths Door",
+      "time": "13 ч. 44 мин.",
+      "size": "2 GB",
+      "earned": 0,
+      "total": 0,
+      "appid": 0,
+      "playtime": 0
+    },
+    {
+      "name": "Katana ZERO",
+      "time": "17 ч. 7 мин.",
+      "size": "1 GB",
+      "earned": 22,
+      "total": 22,
+      "appid": 460950,
+      "playtime": 1027
+    },
+    {
+      "name": "Take Me, Vitaly",
+      "time": "17 ч. 48 мин.",
+      "size": "8 GB",
+      "earned": 80,
+      "total": 80,
+      "appid": 2144590,
+      "playtime": 1068
+    },
+    {
+      "name": "Sundered: Eldritch Edition",
+      "time": "18 ч. 10 мин.",
+      "size": "4 GB",
+      "earned": 20,
+      "total": 20,
+      "appid": 535480,
+      "playtime": 1090
+    },
+    {
+      "name": "Little Nightmares Enhanced Edition",
+      "time": "21 ч. 43 мин.",
+      "size": "10 GB",
+      "earned": 8,
+      "total": 22,
+      "appid": 424840,
+      "playtime": 570
+    },
+    {
+      "name": "Dust: An Elysian Tail",
+      "time": "25 ч. 38 мин.",
+      "size": "1 GB",
+      "earned": 30,
+      "total": 30,
+      "appid": 236090,
+      "playtime": 1538
+    },
+    {
+      "name": "Bastion",
+      "time": "27 ч. 54 мин.",
+      "size": "2 GB",
+      "earned": 24,
+      "total": 24,
+      "appid": 107100,
+      "playtime": 1674
+    },
+    {
+      "name": "The Misadventures of P.B. Winterbottom",
+      "time": "29 ч. 36 мин.",
+      "size": "0.5 GB",
+      "earned": 12,
+      "total": 12,
+      "appid": 40930,
+      "playtime": 1776
+    },
+    {
+      "name": "RUSH: A Disney • PIXAR Adventure",
+      "time": "36 ч. 30 мин.",
+      "size": "4 GB",
+      "earned": 50,
+      "total": 50,
+      "appid": 579490,
+      "playtime": 2190
+    },
+    {
+      "name": "Orcs Must Die!",
+      "time": "40 ч. 10 мин.",
+      "size": "2 GB",
+      "earned": 27,
+      "total": 27,
+      "appid": 102600,
+      "playtime": 2410
+    },
+    {
+      "name": "Ori and the Blind Forest: Definitive Edition",
+      "time": "41 ч. 40 мин.",
+      "size": "4 GB",
+      "earned": 57,
+      "total": 57,
+      "appid": 387290,
+      "playtime": 2500
+    },
+    {
+      "name": "Children of Morta",
+      "time": "48 ч. 12 мин.",
+      "size": "4 GB",
+      "earned": 45,
+      "total": 45,
+      "appid": 330020,
+      "playtime": 2892
+    },
+    {
+      "name": "Plants vs. Zombies: Game of the Year",
+      "time": "50 ч. 44 мин.",
+      "size": "1 GB",
+      "earned": 21,
+      "total": 21,
+      "appid": 3590,
+      "playtime": 3044
+    },
+    {
+      "name": "Saints Row: The Third",
+      "time": "79 ч. 51 мин.",
+      "size": "2 GB",
+      "earned": 83,
+      "total": 83,
+      "appid": 55230,
+      "playtime": 4791
+    },
+    {
+      "name": "PEAK",
+      "time": "86 ч. 9 мин.",
+      "size": "8 GB",
+      "earned": 54,
+      "total": 54,
+      "appid": 3527290,
+      "playtime": 5169
+    },
+    {
+      "name": "Vampire Survivors",
+      "time": "196 ч. 49 мин.",
+      "size": "1 GB",
+      "earned": 243,
+      "total": 243,
+      "appid": 1794680,
+      "playtime": 11809
+    }
+  ],
+  "wishlist": [
+    {
+      "name": "Tiny Glade",
+      "icon": "🏰",
+      "time": "5 ч.",
+      "size": "3 GB",
+      "appid": 2198150
+    },
+    {
+      "name": "Viewfinder",
+      "icon": "📸",
+      "time": "7 ч.",
+      "size": "20 GB",
+      "appid": 1382070
+    },
+    {
+      "name": "Neva",
+      "icon": "🦊",
+      "time": "8 ч.",
+      "size": "5 GB",
+      "appid": 2420660
+    },
+    {
+      "name": "Metal: Hellsinger",
+      "icon": "🤘",
+      "time": "15 ч.",
+      "size": "12 GB",
+      "appid": 1061910
+    },
+    {
+      "name": "SANABI",
+      "icon": "⛓️",
+      "time": "15 ч.",
+      "size": "2 GB",
+      "appid": 1562700
+    },
+    {
+      "name": "Split Fiction",
+      "icon": "🏃",
+      "time": "16 ч.",
+      "size": "~15 GB",
+      "appid": 2001120
+    },
+    {
+      "name": "Ratchet & Clank: Rift Apart",
+      "icon": "🔫",
+      "time": "20 ч.",
+      "size": "75 GB",
+      "appid": 1895880
+    },
+    {
+      "name": "Doom (2016)",
+      "icon": "👹",
+      "time": "20 ч.",
+      "size": "55 GB",
+      "appid": 3017860
+    },
+    {
+      "name": "Black Mesa",
+      "icon": "☢️",
+      "time": "20 ч.",
+      "size": "20 GB",
+      "appid": 362890
+    },
+    {
+      "name": "Dispatch",
+      "icon": "🕵️",
+      "time": "20 ч.",
+      "size": "~16 GB",
+      "appid": 2592160
+    },
+    {
+      "name": "Grim Dawn - Crucible Mode DLC",
+      "icon": "⚔️",
+      "time": "20 ч.",
+      "size": "TBD",
+      "appid": 483840
+    },
+    {
+      "name": "Hi-Fi RUSH",
+      "icon": "🎸",
+      "time": "25 ч.",
+      "size": "20 GB",
+      "appid": 1817230
+    },
+    {
+      "name": "Cult of the Lamb",
+      "icon": "🐑",
+      "time": "25 ч.",
+      "size": "4 GB",
+      "appid": 1313140
+    },
+    {
+      "name": "Pyre",
+      "icon": "🔥",
+      "time": "25 ч.",
+      "size": "6 GB",
+      "appid": 462770
+    },
+    {
+      "name": "Dead Space Remake",
+      "icon": "🔦",
+      "time": "30 ч.",
+      "size": "50 GB",
+      "appid": 1693980
+    },
+    {
+      "name": "Resident Evil Village",
+      "icon": "🏰",
+      "time": "30 ч.",
+      "size": "35 GB",
+      "appid": 1196590
+    },
+    {
+      "name": "Nine Sols",
+      "icon": "☀️",
+      "time": "30 ч.",
+      "size": "10 GB",
+      "appid": 1809540
+    },
+    {
+      "name": "Grim Dawn - Forgotten Gods Expansion",
+      "icon": "⚔️",
+      "time": "30 ч.",
+      "size": "TBD",
+      "appid": 897670
+    },
+    {
+      "name": "Grim Dawn - Ashes of Malmouth Expansion",
+      "icon": "⚔️",
+      "time": "30 ч.",
+      "size": "TBD",
+      "appid": 642280
+    },
+    {
+      "name": "BALL x PIT",
+      "icon": "🎾",
+      "time": "35 ч.",
+      "size": "~1 GB",
+      "appid": 2062430
+    },
+    {
+      "name": "Warhammer 40,000: Space Marine 2",
+      "icon": "🛡️",
+      "time": "40 ч.",
+      "size": "75 GB",
+      "appid": 2183900
+    },
+    {
+      "name": "Resident Evil 4 (2023)",
+      "icon": "☣️",
+      "time": "40 ч.",
+      "size": "60 GB",
+      "appid": 2050650
+    },
+    {
+      "name": "Age of Mythology: Retold",
+      "icon": "🏛️",
+      "time": "40 ч.",
+      "size": "25 GB",
+      "appid": 1934680
+    },
+    {
+      "name": "Sea of Stars",
+      "icon": "🌟",
+      "time": "40 ч.",
+      "size": "5 GB",
+      "appid": 1244090
+    },
+    {
+      "name": "Ninja Gaiden 4",
+      "icon": "🥷",
+      "time": "40 ч.",
+      "size": "~55 GB",
+      "appid": 2627260
+    },
+    {
+      "name": "Titan Quest II",
+      "icon": "🏛️",
+      "time": "40 ч.",
+      "size": "25 GB",
+      "appid": 1154030
+    },
+    {
+      "name": "Death Stranding Director's Cut",
+      "icon": "📦",
+      "time": "40 ч.",
+      "size": "80 GB",
+      "appid": 1850570
+    },
+    {
+      "name": "Spider-Man Remastered",
+      "icon": "🕷️",
+      "time": "50 ч.",
+      "size": "75 GB",
+      "appid": 1817070
+    },
+    {
+      "name": "Stellar Blade",
+      "icon": "⚔️",
+      "time": "50 ч.",
+      "size": "~35 GB",
+      "appid": 3489700
+    },
+    {
+      "name": "God of War (2018)",
+      "icon": "🪓",
+      "time": "50 ч.",
+      "size": "70 GB",
+      "appid": 1593500
+    },
+    {
+      "name": "Tainted Grail: The Fall of Avalon",
+      "icon": "🕯️",
+      "time": "50 ч.+",
+      "size": "20 GB",
+      "appid": 1466060
+    },
+    {
+      "name": "Black Myth: Wukong",
+      "icon": "🐒",
+      "time": "50 ч.",
+      "size": "130 GB",
+      "appid": 2358720
+    },
+    {
+      "name": "Hollow Knight: Silksong",
+      "icon": "🐜",
+      "time": "50 ч.",
+      "size": "~15 GB",
+      "appid": 1030300
+    },
+    {
+      "name": "Lies of P",
+      "icon": "🦾",
+      "time": "60 ч.",
+      "size": "50 GB",
+      "appid": 1627720
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "icon": "👺",
+      "time": "60 ч.",
+      "size": "75 GB",
+      "appid": 2215430
+    },
+    {
+      "name": "Clair Obscur: Expedition 33",
+      "icon": "🎨",
+      "time": "60 ч.",
+      "size": "~50 GB",
+      "appid": 1903340
+    },
+    {
+      "name": "Escape From Duckov",
+      "icon": "🦆",
+      "time": "60 ч.",
+      "size": "~10 GB",
+      "appid": 3167020
+    },
+    {
+      "name": "Sekiro: Shadows Die Twice",
+      "icon": "👺",
+      "time": "70 ч.",
+      "size": "25 GB",
+      "appid": 814380
+    },
+    {
+      "name": "Hogwarts Legacy",
+      "icon": "🪄",
+      "time": "75 ч.",
+      "size": "85 GB",
+      "appid": 990080
+    },
+    {
+      "name": "God of War Ragnarök",
+      "icon": "❄️",
+      "time": "80 ч.",
+      "size": "190 GB",
+      "appid": 2322010
+    },
+    {
+      "name": "Palworld",
+      "icon": "🐧",
+      "time": "100 ч.+",
+      "size": "40 GB",
+      "appid": 1623730
+    },
+    {
+      "name": "Hades II",
+      "icon": "💀",
+      "time": "100 ч.+",
+      "size": "10 GB",
+      "appid": 1145350
+    },
+    {
+      "name": "Mewgenics",
+      "icon": "🐱",
+      "time": "100 ч.+",
+      "size": "2 GB",
+      "appid": 686060
+    },
+    {
+      "name": "Age of Wonders 4",
+      "icon": "🏰",
+      "time": "100 ч.+",
+      "size": "20 GB",
+      "appid": 1669000
+    },
+    {
+      "name": "Slay the Spire 2",
+      "icon": "🃏",
+      "time": "100 ч.+",
+      "size": "1 GB",
+      "appid": 2868840
+    },
+    {
+      "name": "Cyberpunk 2077",
+      "icon": "🦾",
+      "time": "108 ч.",
+      "size": "70 GB",
+      "appid": 1091500
+    },
+    {
+      "name": "Warhammer 40,000: Rogue Trader",
+      "icon": "🪐",
+      "time": "120 ч.+",
+      "size": "40 GB",
+      "appid": 2186680
+    },
+    {
+      "name": "Kingdom Come: Deliverance 2",
+      "icon": "🛡️",
+      "time": "130 ч.+",
+      "size": "~100 GB",
+      "appid": 1771300
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "icon": "🐙",
+      "time": "150 ч.+",
+      "size": "150 GB",
+      "appid": 1086940
+    },
+    {
+      "name": "No Man's Sky",
+      "icon": "🚀",
+      "time": "150 ч.+",
+      "size": "15 GB",
+      "appid": 275850
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim SE",
+      "icon": "🐲",
+      "time": "230 ч.+",
+      "size": "20 GB",
+      "appid": 489830
+    },
+    {
+      "name": "KINGs RAID",
+      "icon": "👑",
+      "time": "TBD",
+      "size": "TBD",
+      "appid": 3689540
+    },
+    {
+      "name": "Crimson Desert",
+      "icon": "🏜️",
+      "time": "TBD",
+      "size": "TBD",
+      "appid": 3321460
+    },
+    {
+      "name": "ELDEN RING NIGHTREIGN",
+      "icon": "💀",
+      "time": "TBD",
+      "size": "TBD",
+      "appid": 2622380
+    },
+    {
+      "name": "Solasta II",
+      "icon": "🛡️",
+      "time": "TBD",
+      "size": "TBD",
+      "appid": 2975950
+    },
+    {
+      "name": "Death Stranding 2: On the Beach",
+      "icon": "🌊",
+      "time": "TBD",
+      "size": "TBD",
+      "appid": 3280350
+    }
+  ],
+  "totalEarned": 1189,
+  "totalAchievements": 6681,
+  "totalPlaytime": 201480,
+  "updated": "25 марта 2026"
+}
